@@ -48,7 +48,7 @@ To run the Naive Bayes model, follow these steps:
    nltk.download('words')
    nltk.download('movie_reviews')
    nltk.download('wordnet')
-   nltk.download('averaged_perceptron_tagger')   ```
+   nltk.download('averaged_perceptron_tagger')
 4. Run the Naive Bayes script.
 
 ### BERT
@@ -61,6 +61,6 @@ To run the BERT model, follow these steps:
    nltk.download('words')
    nltk.download('movie_reviews')
    nltk.download('wordnet')
-   nltk.download('averaged_perceptron_tagger') ```
+   nltk.download('averaged_perceptron_tagger')
 3. Run the BERT script.
 
