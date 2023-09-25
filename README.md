@@ -36,7 +36,7 @@ In this research endeavor, we conducted a comparative study of sentiment analysi
 
 ## Running the Code
 ### Python Version
-Python version used: 3.10.12 (main, Jun 11 2023, 05:26:28) [GCC 11.4.0]
+Python version used: 3.11.2
 
 ### Naive Bayes
 To run the Naive Bayes model, follow these steps:
