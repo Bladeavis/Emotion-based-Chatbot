@@ -41,24 +41,26 @@ Python version used: 3.10.12 (main, Jun 11 2023, 05:26:28) [GCC 11.4.0]
 ### Naive Bayes
 To run the Naive Bayes model, follow these steps:
 1. Install the required libraries: 'pip install nltk'
-2. Download NLTK data: python
+2. Download NLTK data:
+   ```python
    import nltk
    nltk.download('punkt')
    nltk.download('words')
    nltk.download('movie_reviews')
    nltk.download('wordnet')
-   nltk.download('averaged_perceptron_tagger')
-3. Run the Naive Bayes script.
+   nltk.download('averaged_perceptron_tagger')   ```
+4. Run the Naive Bayes script.
 
 ### BERT
 To run the BERT model, follow these steps:
-1. Install the required libraries: 'pip install nltk' and 'pip install transformers'
+1. Install the required libraries: `pip install nltk` and `pip install transformers`
 2. Download NLTK data:
+   ```python
    import nltk
    nltk.download('punkt')
    nltk.download('words')
    nltk.download('movie_reviews')
    nltk.download('wordnet')
-   nltk.download('averaged_perceptron_tagger')
+   nltk.download('averaged_perceptron_tagger') ```
 3. Run the BERT script.
 
