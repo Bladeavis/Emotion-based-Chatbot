@@ -49,6 +49,18 @@ To run the Naive Bayes model, follow these steps:
    nltk.download('movie_reviews')
    nltk.download('wordnet')
    nltk.download('averaged_perceptron_tagger')
+
+```
+   from nltk.tokenize import word_tokenize
+   from nltk.corpus import words
+   from nltk.stem import WordNetLemmatizer
+   from nltk.corpus import movie_reviews
+   from sklearn.model_selection import train_test_split
+   from sklearn.feature_extraction.text import TfidfVectorizer
+   from sklearn.naive_bayes import MultinomialNB
+   from sklearn.metrics import accuracy_score, classification_report
+```
+   
 4. Run the Naive Bayes script.
 
 ### BERT
@@ -62,6 +74,18 @@ To run the BERT model, follow these steps:
    nltk.download('movie_reviews')
    nltk.download('wordnet')
    nltk.download('averaged_perceptron_tagger')
+
+```
    import torch
+   from transformers import DistilBertTokenizer, DistilBertForSequenceClassification
+   from sklearn.model_selection import train_test_split
+   from sklearn.metrics import accuracy_score, classification_report
+   import numpy as np
+   from nltk.tokenize import word_tokenize
+   from nltk.corpus import words
+   from nltk.stem import WordNetLemmatizer
+   from nltk.corpus import movie_reviews
+   from collections import defaultdict
+```
 3. Run the BERT script.
 
