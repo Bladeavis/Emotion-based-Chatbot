@@ -36,7 +36,7 @@ In this research endeavor, we conducted a comparative study of sentiment analysi
 
 ## Running the Code
 ### Python Version
-Python version used: 3.11.4 Anaconda
+Python version used: 3.11.4 Core: Anaconda
 
 ### Naive Bayes
 To run the Naive Bayes model, follow these steps:
