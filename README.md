@@ -43,6 +43,7 @@ To run the Naive Bayes model, follow these steps:
 1. Install the required libraries: `pip install nltk`
 2. Download NLTK data:
    ```python
+   import re
    import nltk
    nltk.download('punkt')
    nltk.download('words')
@@ -67,6 +68,7 @@ To run the BERT model, follow these steps:
 1. Install the required libraries: `pip install nltk` and `pip install transformers`
 2. Download NLTK data:
    ```python
+   import re
    import nltk
    nltk.download('punkt')
    nltk.download('words')
