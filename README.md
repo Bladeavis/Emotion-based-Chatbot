@@ -16,7 +16,7 @@ Main Research Questions:
 In this research endeavor, we conducted a comparative study of sentiment analysis models to identify the one that aligns best with our chatbot application's requirements. Our primary focus was on model accuracy and reliability.
 
 ### Key Findings
-- BERT exhibited the highest accuracy, achieving an 83% accuracy rate.
+- BERT exhibited the highest accuracy, achieving an 83% accuracy rate. It is best suited for our application.
 - Categorization of words alone is insufficient for sentiment analysis, as words in a sentence affect each other.
 - Complex and lengthy sentences tend to lower the model's accuracy.
 - Out of 41 sentences analyzed, 15 were interpreted differently by Naive Bayes and BERT, with BERT producing more accurate results in most cases.
