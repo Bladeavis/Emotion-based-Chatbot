@@ -58,7 +58,7 @@ To run the Naive Bayes model, follow these steps:
    from sklearn.feature_extraction.text import TfidfVectorizer
    from sklearn.naive_bayes import MultinomialNB
    from sklearn.metrics import accuracy_score, classification_report
-```
+
    
 4. Run the Naive Bayes script.
 
@@ -84,6 +84,6 @@ To run the BERT model, follow these steps:
    from nltk.stem import WordNetLemmatizer
    from nltk.corpus import movie_reviews
    from collections import defaultdict
-```
+
 3. Run the BERT script.
 
