@@ -66,7 +66,7 @@ To run the Naive Bayes model, follow these steps:
 
 ### BERT
 ## Important Note:
-This model takes a long time to load and Data Split (10 Minutes). For this reason, the BERT file results faster when run through GoogleColab (2 Minutes).
+This model takes a long time to load and Data Split (>30 Minutes). For this reason, the BERT file results faster when run through GoogleColab (with T4 GPU - 2 Minutes).
 
 To run the BERT model, follow these steps:
 1. Install the required libraries: `pip install nltk` and `pip install transformers` and `pip install torch` 
