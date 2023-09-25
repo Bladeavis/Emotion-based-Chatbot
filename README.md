@@ -50,7 +50,6 @@ To run the Naive Bayes model, follow these steps:
    nltk.download('wordnet')
    nltk.download('averaged_perceptron_tagger')
 
-```
    from nltk.tokenize import word_tokenize
    from nltk.corpus import words
    from nltk.stem import WordNetLemmatizer
@@ -75,7 +74,6 @@ To run the BERT model, follow these steps:
    nltk.download('wordnet')
    nltk.download('averaged_perceptron_tagger')
 
-```
    import torch
    from transformers import DistilBertTokenizer, DistilBertForSequenceClassification
    from sklearn.model_selection import train_test_split
