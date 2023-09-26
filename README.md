@@ -41,6 +41,7 @@ Python version used: 3.11.4 Core: Anaconda
 ### Naive Bayes
 You can open this code from GoogleColab for fast results and operation: https://colab.research.google.com/drive/1VN_lPzProdsQ1FZau1Q9a6MzDzD616KB?usp=sharingd
 
+
 To run the Naive Bayes model, follow these steps:
 1. Install the required libraries: `pip install nltk`
 2. Download NLTK data:
