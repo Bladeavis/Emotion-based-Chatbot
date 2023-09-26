@@ -102,6 +102,8 @@ To run the BERT model, follow these steps:
 ### Prototype Chatbot with Sentiments - BERT
 
 Here you can access the combination of the Chatbot we downloaded from Huggingface and the BERT Model that analyzes Sentiment: https://colab.research.google.com/drive/1UVocScWBv3zDgruO6nvds5m0RObqJNDd?usp=sharing
+Chatbot Model = "facebook/blenderbot_small-90M"
+Sentiment Model = "distilbert-base-uncased"
 
 1. Install the required libraries: `pip install transformers` and `pip install torch` 
 
