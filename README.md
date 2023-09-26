@@ -39,6 +39,7 @@ In this research endeavor, we conducted a comparative study of sentiment analysi
 Python version used: 3.11.4 Core: Anaconda
 
 ### Naive Bayes
+You can open this code from GoogleColab for fast results and operation: https://colab.research.google.com/drive/1VN_lPzProdsQ1FZau1Q9a6MzDzD616KB?usp=sharingd
 To run the Naive Bayes model, follow these steps:
 1. Install the required libraries: `pip install nltk`
 2. Download NLTK data:
@@ -66,7 +67,7 @@ To run the Naive Bayes model, follow these steps:
 
 ### BERT
 ## Important Note:
-This model takes a long time to load and Data Split (>30 Minutes). For this reason, the BERT file results faster when run through GoogleColab (with T4 GPU - 2 Minutes).
+This model takes a long time to load and Data Split (>45 Minutes). For this reason, the BERT file results faster when run through GoogleColab (with T4 GPU - 2 Minutes). Since GoogleColab runs this code using GPU and RAM, the Train-Test split and model loading takes 2 minutes, but when you run this code on your own computer on a platform like VS Code, this part of the code takes a very long time (>45 Minutes), so you can see how the code works by clicking on the GoogleColab link below: https://colab.research.google.com/drive/1yQqHO6CPsZcRDi5zXi0xH3TxAa2NnwwQ?usp=sharing 
 
 To run the BERT model, follow these steps:
 1. Install the required libraries: `pip install nltk` and `pip install transformers` and `pip install torch` 
