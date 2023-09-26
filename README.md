@@ -105,6 +105,7 @@ Here you can access the combination of the Chatbot we downloaded from Huggingfac
    ```
    import torch
    import numpy as np
-   from transformers import AutoTokenizer, AutoModelForSequenceClassification, BlenderbotSmallForConditionalGeneration, BlenderbotSmallTokenizer
+   from transformers import AutoTokenizer, AutoModelForSequenceClassification
+   from transformers import BlenderbotSmallForConditionalGeneration, BlenderbotSmallTokenizer
 2. Run the Prototype Chatbot with Sentiments -BERT script.
 
