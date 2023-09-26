@@ -73,6 +73,7 @@ This model takes a long time to load and Data Split (>45 Minutes). For this reas
 
 To run the BERT model, follow these steps:
 1. Install the required libraries: `pip install nltk` and `pip install transformers` and `pip install torch` 
+
 2. Download NLTK data:
    ```python
    import re
@@ -108,5 +109,6 @@ Here you can access the combination of the Chatbot we downloaded from Huggingfac
    import numpy as np
    from transformers import AutoTokenizer, AutoModelForSequenceClassification
    from transformers import BlenderbotSmallForConditionalGeneration, BlenderbotSmallTokenizer
+
 2. Run the Prototype Chatbot with Sentiments -BERT script.
 
