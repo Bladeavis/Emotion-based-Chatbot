@@ -105,7 +105,7 @@ Here you can access the combination of the Chatbot we downloaded from Huggingfac
 
 1. Install the required libraries: `pip install transformers` and `pip install torch` 
 
-   ```
+   ```python
    import torch
    import numpy as np
    from transformers import AutoTokenizer, AutoModelForSequenceClassification
