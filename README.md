@@ -97,3 +97,15 @@ To run the BERT model, follow these steps:
 
 3. Run the BERT script.
 
+
+### Prototype Chatbot with Sentiments - BERT
+Here you can access the combination of the Chatbot we downloaded from Huggingface and the BERT Model that analyzes Sentiment: https://colab.research.google.com/drive/1UVocScWBv3zDgruO6nvds5m0RObqJNDd?usp=sharing
+
+1. Install the required libraries: `pip install transformers` and `pip install torch` 
+   ```
+   import torch
+   import numpy as np
+   from transformers import AutoTokenizer, AutoModelForSequenceClassification, BlenderbotSmallForConditionalGeneration, BlenderbotSmallTokenizer
+
+2. Run the Prototype Chatbot with Sentiments -BERT script.
+
