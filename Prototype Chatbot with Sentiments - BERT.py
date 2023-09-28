@@ -9,7 +9,7 @@ Original file is located at
 
 Prototype Chatbot with Sentiments - BERT
 """
-
+%pip install transformers
 import torch
 import numpy as np
 from transformers import AutoTokenizer, AutoModelForSequenceClassification, BlenderbotSmallForConditionalGeneration, BlenderbotSmallTokenizer
