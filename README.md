@@ -1,4 +1,4 @@
-# Sentiment Analysis Comparison und Emotion-based-Chatbot
+# Sentiment Analysis Comparison and Emotion-based-Chatbot
 
 ## Project Contributors
 - Mia Theresa Nick (BERT)
