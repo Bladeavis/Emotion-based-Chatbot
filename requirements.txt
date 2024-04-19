@@ -155,7 +155,7 @@ httplib2==0.22.0
 huggingface-hub==0.17.3
 humanize==4.7.0
 hyperopt==0.2.7
-idna==3.4
+idna>=3.7
 imageio==2.31.3
 imageio-ffmpeg==0.4.8
 imagesize==1.4.1
