@@ -1,8 +1,8 @@
 # Sentiment Analysis Comparison and Emotion-based-Chatbot
 
 ## Project Contributors
-- Mia Theresa Nick (BERT)
-- Nurhayat Altunok (Naive Bayes)
+- Mia Theresa Nick
+- Nurhayat Altunok
 
 ## Context
 This project was implemented to develop a chatbot that utilizes sentiment analysis models to understand and respond to user input effectively. The project aims to compare different sentiment analysis models to select the most suitable one for the chatbot's implementation.
