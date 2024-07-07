@@ -13,7 +13,7 @@ but when you run this code on your own computer on a platform like VS Code, this
 so you can see how the code works by clicking on the GoogleColab link below: 
 https://colab.research.google.com/drive/1yQqHO6CPsZcRDi5zXi0xH3TxAa2NnwwQ?usp=sharing
 
-Pre-Trained Model BERT (Distilbert) - MIA THERESA NICK
+Pre-Trained Model BERT (Distilbert)
 
 Data Preperation and Libraries
 """
