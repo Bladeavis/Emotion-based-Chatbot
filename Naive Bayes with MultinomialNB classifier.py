@@ -8,7 +8,7 @@ Data Preperation and Libraries
 """
 
 # Importing the required libraries
-%pip install nltk
+#pip install nltk
 
 import re
 import nltk
