@@ -11,8 +11,8 @@ Data Preperation and Libraries
 """
 
 # Importing the required libraries
-%pip install nltk
-%pip install transformers
+#pip install nltk
+#pip install transformers
 
 import re
 import nltk
