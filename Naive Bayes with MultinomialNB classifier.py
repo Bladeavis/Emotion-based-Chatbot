@@ -3,6 +3,8 @@
 
 Naive Bayes with MultinomialNB classifier
 
+Data Preperation and Libraries
+
 """
 
 # Importing the required libraries
